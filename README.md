@@ -3,9 +3,9 @@
 > Shared Browserslist config for use in NICE Digital Services
 
 [![npm](https://img.shields.io/npm/v/@nice-digital/browserslist-config.svg)](https://www.npmjs.com/package/@nice-digital/browserslist-config)
-[![GitHub release](https://img.shields.io/github/release/nhsevidence/browserslist-config.svg)](https://github.com/nhsevidence/browserslist-config)
-[![License](https://img.shields.io/github/license/nhsevidence/browserslist-config.svg)](https://github.com/nhsevidence/browserslist-config/blob/master/LICENSE)
-[![Dependencies](https://img.shields.io/david/nhsevidence/browserslist-config.svg)](https://david-dm.org/nhsevidence/browserslist-config)
+[![GitHub release](https://img.shields.io/github/release/nice-digital/browserslist-config.svg)](https://github.com/nice-digital/browserslist-config)
+[![License](https://img.shields.io/github/license/nice-digital/browserslist-config.svg)](https://github.com/nice-digital/browserslist-config/blob/master/LICENSE)
+[![Dependencies](https://img.shields.io/david/nice-digital/browserslist-config.svg)](https://david-dm.org/nice-digital/browserslist-config)
 
 ## Installation
 

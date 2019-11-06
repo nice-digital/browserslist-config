@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhsevidence/browserslist-config.git"
+    "url": "git+https://github.com/nice-digital/browserslist-config.git"
   },
   "keywords": [
     "nice",
     "browserslist",
     "browserslist-config"
   ],
-  "author": "NICE Digital Services (https://github.com/nhsevidence/browserslist-config/graphs/contributors)",
+  "author": "NICE Digital Services (https://github.com/nice-digital/browserslist-config/graphs/contributors)",
   "contributors": [
     "NICE Digital Services (https://www.nice.org.uk/)",
     "Ian Routledge (http://ediblecode.com)"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/nhsevidence/browserslist-config#readme"
+  "homepage": "https://github.com/nice-digital/browserslist-config#readme"
 }
