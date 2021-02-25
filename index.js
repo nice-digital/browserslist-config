@@ -1,6 +1,7 @@
 // See https://github.com/ai/browserslist#shareable-configs
 module.exports = [
-	"> 1%",
+	"not dead",
+	"> 0.2%",
 	"last 2 versions",
-	"IE >= 8" // 😢
+	"IE >= 11"
 ];
