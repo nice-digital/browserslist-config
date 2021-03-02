@@ -33,6 +33,6 @@ Add this to your *package.json* file:
 
 Or use a _.browserslistrc_ [as per the docs](https://github.com/browserslist/browserslist#config-file).
 
-## V1 Breaking changes
+## V2 Breaking changes
 
-Version 1 drops support for IE versions below 11. Use v1 for support for older browsers.
+Version 2 drops support for IE versions below 11. Use v1 for support for older browsers.
